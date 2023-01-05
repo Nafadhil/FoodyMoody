@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gambar">
+        <item>https://rxzqoyotwwblwzbtnzld.supabase.co/storage/v1/object/sign/gambar/2%20(1).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnYW1iYXIvMiAoMSkucG5nIiwidHJhbnNmb3JtYXRpb25zIjoiIiwiaWF0IjoxNjcyNzMzOTk5LCJleHAiOjE5ODgwOTM5OTl9.VkwSLizD4P4nthy-GO_mPenp7wjt7nXmzx45OgIZ3Po</item>
+        <item>https://rxzqoyotwwblwzbtnzld.supabase.co/storage/v1/object/sign/gambar/3%20(2).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnYW1iYXIvMyAoMikucG5nIiwidHJhbnNmb3JtYXRpb25zIjoiIiwiaWF0IjoxNjcyNzM0MDAxLCJleHAiOjE5ODgwOTQwMDF9.IQEwwUslZX7DQqtl0Is_oqcZBlPeOXRb24upDnMq6xQ</item>
+        <item>https://rxzqoyotwwblwzbtnzld.supabase.co/storage/v1/object/sign/gambar/9.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnYW1iYXIvOS5wbmciLCJ0cmFuc2Zvcm1hdGlvbnMiOiIiLCJpYXQiOjE2NzI3MzM3OTAsImV4cCI6MTk4ODA5Mzc5MH0.3l4ufiHJAhpNlPHcUWpi6xOQikzH6LLztgHLOU-IEaQ</item>
+        <item>https://rxzqoyotwwblwzbtnzld.supabase.co/storage/v1/object/sign/gambar/4%20(1).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnYW1iYXIvNCAoMSkucG5nIiwidHJhbnNmb3JtYXRpb25zIjoiIiwiaWF0IjoxNjcyNzM0MDA0LCJleHAiOjE5ODgwOTQwMDR9.aKcT-4nIXParQuZ1NJHFThPBfUG0pX63NJSQYNX562U</item>
+        <item>https://rxzqoyotwwblwzbtnzld.supabase.co/storage/v1/object/sign/gambar/5%20(1).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnYW1iYXIvNSAoMSkucG5nIiwidHJhbnNmb3JtYXRpb25zIjoiIiwiaWF0IjoxNjcyNzM0MzU3LCJleHAiOjE5ODgwOTQzNTd9.Q-3okreja3OUGpeq_KO3KRJb5CEKuoENyFY2oeDFhVU</item>
+        <item>https://rxzqoyotwwblwzbtnzld.supabase.co/storage/v1/object/sign/gambar/10.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnYW1iYXIvMTAucG5nIiwidHJhbnNmb3JtYXRpb25zIjoiIiwiaWF0IjoxNjcyNzMzNzk1LCJleHAiOjE5ODgwOTM3OTV9.9KvMD8z-xjPovnA7dVgIhBupsEBW4LSV-7bkWJMYd2Q</item>
+        <item>https://rxzqoyotwwblwzbtnzld.supabase.co/storage/v1/object/sign/gambar/8.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnYW1iYXIvOC5wbmciLCJ0cmFuc2Zvcm1hdGlvbnMiOiIiLCJpYXQiOjE2NzI3MzM3NTgsImV4cCI6MTk4ODA5Mzc1OH0.2j8-0lMay68B4vDnctzZzrbgvEJGL5rEWS3vlTj0Ec0</item>
+        <item>https://rxzqoyotwwblwzbtnzld.supabase.co/storage/v1/object/sign/gambar/6%20(1).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnYW1iYXIvNiAoMSkucG5nIiwidHJhbnNmb3JtYXRpb25zIjoiIiwiaWF0IjoxNjcyNzM0Mzc2LCJleHAiOjE5ODgwOTQzNzZ9.lOKdegpU3voAggvQeq44KxRTVUrP1o2dgfyb_8SvoqE</item>
+    </string-array>
+</resources>
